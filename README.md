@@ -2,6 +2,8 @@
 
 This project is a React application that showcases different beverages with interactive features.
 
+Live-Demo: [https://fanta-app.netlify.app/] (-->)
+
 ## Table of Contents
 
 - [Overview](#overview)
