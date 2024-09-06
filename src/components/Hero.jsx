@@ -216,7 +216,7 @@ const Hero = () => {
             </AnimatePresence>
         </div>
         {/* whatsaap icon  */}
-        <div className='text-6xl text-white fixed bottom-20 right-10 hover:rotate-[360deg] duration-500 z-[999999] mix-blend-difference'>
+        <div className='text-4xl text-white fixed bottom-20 right-10 hover:rotate-[360deg] duration-500 z-[999999] mix-blend-difference'>
             <a href="#">
                 <FaWhatsapp/>
             </a>
