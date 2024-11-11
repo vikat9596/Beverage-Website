@@ -1,4 +1,4 @@
-# Beverage Website
+# Beverage Product Website
 
 This project is a React application that showcases different beverages with interactive features.
 
@@ -62,6 +62,9 @@ The navigation bar component that includes menu options and user profile interac
 - **React**: JavaScript library for building user interfaces.
 - **Framer Motion**: Animation library for React.
 - **react-mouse-follower**: Library for creating interactive mouse effects.
+
+### Contribution
+- Komal Nimbarte komalnimbarte128@gmail.com [UI/UX Intern]
 
 ## License
 
