@@ -11,6 +11,7 @@ Live-Demo: [https://fanta-app.netlify.app/] (-->)
 - [Usage](#usage)
 - [Components](#components)
 - [Dependencies](#dependencies)
+- [Contribution](#contribution)
 - [License](#license)
 
 ## Overview
